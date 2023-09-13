@@ -16,11 +16,16 @@ comments: true
 
 개인 이력
 
-Vulnerability report  
-• CVE-2023-32269 (Linux kernel NET/ROM socket Use-After-Free)  
-• CVE-2022-41218 (Linux kernel DVB core Use-After-Free)  
-• CVE-2022-45884 (Linux kernel DVB core Use-After-Free)  
-• CVE-2022-45885 (Linux kernel DVB core Use-After-Free)  
+Vulnerability report
+
+• CVE-2023-32269 (Linux kernel NET/ROM socket Use-After-Free)
+
+• CVE-2022-41218 (Linux kernel DVB core Use-After-Free)
+
+• CVE-2022-45884 (Linux kernel DVB core Use-After-Free)
+
+• CVE-2022-45885 (Linux kernel DVB core Use-After-Free)
+
 • CVE-2022-45886 (Linux kernel DVB core Use-After-Free)  
 • CVE-2022-45919 (Linux kernel DVB core Use-After-Free)  
 • CVE-2022-40307 (Linux kernel Device driver Use-After-Free)  
